@@ -1,0 +1,37 @@
+{
+  "name": "DaveAI — Dave's Friendly AI",
+  "short_name": "DaveAI",
+  "description": "A friendly, patient AI assistant for coding, homework, writing, and everyday questions.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1B1F1D",
+  "theme_color": "#1B1F1D",
+  "icons": [
+    {
+      "src": "./daveai-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./daveai-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./daveai-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./daveai-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
